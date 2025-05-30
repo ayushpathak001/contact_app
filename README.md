@@ -2,7 +2,7 @@
 This Contact Management App is developed for educational and learning purposes only. It demonstrates basic file handling, CRUD operations, and menu-driven logic in Python..
 # 📱 Contact Management App
 
-A simple **Contact Management System** built using C (or your language) for learning and educational purposes.  
+A simple **Contact Management System** built using python for learning and educational purposes.  
 This app lets users **add, view, update, and delete contacts** from a text-based system.
 
 ---
